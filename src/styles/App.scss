@@ -1,0 +1,13 @@
+// Globally scope the css elements with :global tag
+// Local scoping is default
+// Camel case should be used for the class names
+
+.navigationBar {
+  align-items: center;
+  background-color: grey;
+  color: white;
+  display: flex;
+  font-size: 1.5rem;
+  height: 3rem;
+  padding-left: 10px;
+}
